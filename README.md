@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
