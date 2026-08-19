@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0079-word-search) |
+| [0543-diameter-of-binary-tree](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0543-diameter-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -151,4 +152,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0621-task-scheduler) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
