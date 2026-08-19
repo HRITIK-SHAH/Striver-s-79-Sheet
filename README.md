@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0621-task-scheduler) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0148-sort-list) |
+| [0621-task-scheduler](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
@@ -135,8 +138,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
