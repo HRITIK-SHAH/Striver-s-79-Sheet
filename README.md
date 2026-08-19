@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
