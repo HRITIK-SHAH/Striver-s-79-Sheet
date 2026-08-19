@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0162-find-peak-element) |
+| [0496-next-greater-element-i](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0496-next-greater-element-i) |
 | [0875-koko-eating-bananas](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0037-sudoku-solver) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
