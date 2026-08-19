@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
@@ -95,9 +97,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0496-next-greater-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
