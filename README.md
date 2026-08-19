@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0079-word-search) |
 ## String
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
