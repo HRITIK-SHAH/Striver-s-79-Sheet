@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0079-word-search) |
+| [0940-distinct-subsequences-ii](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0940-distinct-subsequences-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0042-trapping-rain-water) |
+| [0940-distinct-subsequences-ii](https://github.com/HRITIK-SHAH/Striver-s-79-Sheet/tree/master/0940-distinct-subsequences-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
